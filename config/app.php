@@ -211,6 +211,7 @@ return [
         'Crypt' => Illuminate\Support\Facades\Crypt::class,
         'DB' => Illuminate\Support\Facades\DB::class,
         'DNS1D' => 'Milon\Barcode\Facades\DNS1DFacade',
+        'DNS2D' => 'Milon\Barcode\Facades\DNS2DFacade',
         'Eloquent' => Illuminate\Database\Eloquent\Model::class,
         'Event' => Illuminate\Support\Facades\Event::class,
         'Excel' => Maatwebsite\Excel\Facades\Excel::class,
